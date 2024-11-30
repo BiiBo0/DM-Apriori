@@ -6,7 +6,7 @@ The code imports necessary libraries for data manipulation (pandas, numpy), data
 
 2. Data Loading:
 
-It uses pd.read_excel from pandas to read an Excel file located at /Users/shahdmohammed/Downloads/dm/Horizontal_Format.xlsx.
+It uses pd.read_excel from pandas to read an Excel file.
 The data is then converted into a list of sets, where each set represents a transaction containing items.
 
 3. Variables:
